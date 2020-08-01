@@ -5,6 +5,14 @@ Demonstration video link(With explanation): https://www.youtube.com/watch?v=-ABd
 
 Project report link: https://drive.google.com/file/d/1UYPDUxDpInvrYgXqf9tvMdxpgbwqEFVf/view?usp=sharing
 
+## Problem Statement 
+ As we all know this pandemic has affected almost all people in a significant way and most of them would have faced an emotional turmoil in their life due to the downfall of     economy and various reasons.Its important to analyse the sentiments of people and to find out the areas thats need to be concentrated and improved.
+
+## Our Expected solution
+
+Our project aims to analyse the sentiments of people and give the user some knowledge about the emotional quotient about the society that they live in
+
+## Short description
 
 We are going to study and predict the sentiment and emotions of people during this lockdown using machine learning. It is the process of computationally identifying and categorizing opinions expressed in a piece of text, especially in order to determine whether the writer's attitude towards a particular topic is positive, negative, or neutral. We are going to obtain the dataset from twitter, feed the data into a suitable algorithm that performs the sentimental analysis. After performing the sentimental analysis, we are going to plot a sentiment map. The users will thus get an idea about the impact of this pandemic in various states. The users are given a choice to choose a state. Once the state is chosen, we give the analysis breakdown of top keywords used in that state. This will give the user a better perspective of the morality prevailing in that state.
  
@@ -14,6 +22,7 @@ There is also another additional feature in our project, the user can give any k
 ## ROAD MAP
 
 ![alt text](https://github.com/Zualemo-xo/COVID-19-Twitter-Sentiment-Dashboard/blob/master/Roadmap_CFC.PNG?raw=true)
+
 
 An in-depth overview is given in 'documentation'.
 
