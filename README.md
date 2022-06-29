@@ -5,6 +5,21 @@ Demonstration video link(With explanation): https://www.youtube.com/watch?v=-ABd
 
 Project report link: https://drive.google.com/file/d/1UYPDUxDpInvrYgXqf9tvMdxpgbwqEFVf/view?usp=sharing
 
+## Pictures Of Application
+
+![image](https://user-images.githubusercontent.com/61049979/176559870-018d0445-aa77-467b-8760-803f82b324f7.png)
+
+![image](https://user-images.githubusercontent.com/61049979/176559945-18566adf-df9a-4ab6-b46f-f84574567061.png)
+
+![image](https://user-images.githubusercontent.com/61049979/176560008-4230afc3-125b-4a88-8c90-a1a9614dc39a.png)
+
+![image](https://user-images.githubusercontent.com/61049979/176560087-a892f5ae-8453-4509-a310-1ff8ecb4d255.png)
+
+![image](https://user-images.githubusercontent.com/61049979/176560155-b31ec3dd-1bc0-4ac0-b439-cf5e0dc055b9.png)
+
+![image](https://user-images.githubusercontent.com/61049979/176560220-a01a092c-1b02-49ad-850b-97c076f6f063.png)
+
+
 ## Problem Statement 
  As we all know this pandemic has affected almost all people in a significant way and most of them would have faced an emotional turmoil in their life due to the downfall of     economy and various reasons.Its important to analyse the sentiments of people and to find out the areas thats need to be concentrated and improved.
 
