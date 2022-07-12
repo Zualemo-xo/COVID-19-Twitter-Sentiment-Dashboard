@@ -1,7 +1,7 @@
 # Sentiment-Analysis-of-COVID-19-tweets
 Short Demo Video: https://www.youtube.com/watch?v=PnQehXN_RpU
 
-Demonstration video link(With explanation): https://www.youtube.com/watch?v=-ABdpO1NF3w
+Demonstration video link (With explanation): https://www.youtube.com/watch?v=-ABdpO1NF3w
 
 Project report link: https://drive.google.com/file/d/1UYPDUxDpInvrYgXqf9tvMdxpgbwqEFVf/view?usp=sharing
 
