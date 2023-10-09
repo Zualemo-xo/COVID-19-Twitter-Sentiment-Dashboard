@@ -34,11 +34,6 @@ We are going to study and predict the sentiment and emotions of people during th
 There is also another additional feature in our project, the user can give any keyword as input and we give them results like the number of tweets that has the keyword, the states that have the maximum number of tweets containing the keyword etc. Using our model, the user can get better perspective about the major problems prevailing in our country due to the pandemic.
 
 
-## ROAD MAP
-
-![alt text](https://github.com/Zualemo-xo/COVID-19-Twitter-Sentiment-Dashboard/blob/master/Roadmap_CFC.PNG?raw=true)
-
-
 An in-depth overview is given in 'documentation'.
 
 This repository is a submission for the 2020 Call for Code Global Challenge.
