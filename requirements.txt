@@ -8,7 +8,7 @@ dash-renderer==1.0.0
 dash-table==4.1.0
 dask==2021.10.0
 decorator==4.4.0
-Flask==1.1.1
+Flask==2.2.5
 Flask-Compress==1.4.0
 gunicorn==19.9.0
 html5lib==1.0.1
