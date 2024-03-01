@@ -3,7 +3,7 @@ chardet==3.0.4
 Click==7.0
 dash==1.1.1
 dash-core-components==1.1.1
-dash-html-components==1.0.0
+dash-html-components==2.0.0
 dash-renderer==1.0.0
 dash-table==4.1.0
 dask==2021.10.0
